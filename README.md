@@ -9,6 +9,10 @@
 ### Hello folks, I am Dhyani Desai <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <p>I am pursuing my B.Tech in CSE at Vellore Institute of Technology, Chennai. I am interested in full stack development, machine learning and data science. </p>
 
+
+<div align="">
+<img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
+<br>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on various machine learning and web development projects
