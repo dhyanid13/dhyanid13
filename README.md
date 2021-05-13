@@ -1,10 +1,7 @@
 
 
 
-<p align='center'>
- <a href="https://www.instagram.com/dhyani_d13/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/dhyani-desai-2706021b4/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp
-<a href="https://twitter.com/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+
 
 
 ### Hello folks, I am Dhyani Desai <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
@@ -69,5 +66,13 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhyanid13&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Dhaynis GitHub Stats" />
 </a>
 
+<br>
+<br>
+<br>
 
+
+<p align='center'>
+ <a href="https://www.instagram.com/dhyani_d13/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/dhyani-desai-2706021b4/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp
+<a href="https://twitter.com/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 
