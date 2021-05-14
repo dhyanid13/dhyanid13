@@ -1,12 +1,12 @@
 
-![Header](https://github.com/dhyanid13/dhyanid13/blob/main/DHYANI%20DESAI-01.jpg)
+![Header](https://github.com/dhyanid13/dhyanid13/blob/main/DD1-01.jpg)
 
 
 
 ![Dhyani's views](https://komarev.com/ghpvc/?username=d)
 
 
-### Hello folks, I am Dhyani Desai <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hello folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <p>I am pursuing my B.Tech in CSE at Vellore Institute of Technology, Chennai. I am interested in full stack development, machine learning and data science. </p>
 
 
