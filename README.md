@@ -1,5 +1,5 @@
 
-![Header](https://github.com/dhyanid13/dhyanid13/blob/main/Projects%2Cintrests%20and%20something%20(1).jpg)
+![Header](https://github.com/dhyanid13/dhyanid13/blob/main/DHYANI%20DESAI-01.jpg)
 
 
 
@@ -11,7 +11,7 @@
 
 
 <div align="">
-<img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
+
 <br>
 Here are some ideas to get you started:
 
