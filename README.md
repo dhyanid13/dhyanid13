@@ -7,7 +7,7 @@
 
 
 ### Hello folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<p>I am pursuing my B.Tech in CSE at Vellore Institute of Technology, Chennai. I am interested in full stack development, machine learning and data science. </p>
+<p>I am Dhyani Desai, pursuing my B.Tech in CSE at Vellore Institute of Technology, Chennai. I am interested in full stack development, machine learning and data science. </p>
 
 
 <div align="">
