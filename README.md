@@ -10,7 +10,7 @@
 <p>I am Dhyani Desai, pursuing my B.Tech in CSE at Vellore Institute of Technology, Chennai. I am interested in full stack development, machine learning and data science. </p>
 
 
-<div align="">
+
 
 <br>
 Here are some ideas to get you started:
@@ -24,6 +24,12 @@ Here are some ideas to get you started:
 
 
 <br>
+
+
+<div align="center">
+    <img src="https://cdn.dribbble.com/users/1314475/screenshots/3031368/me.gif" alt="hey" />
+</div>
+
 
 ## 🔧 Technologies & Tools
 <!--
