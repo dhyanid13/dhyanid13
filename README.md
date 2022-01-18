@@ -103,32 +103,37 @@
 
 
 ## &#x1f4c8; GitHub Stats
-<div align="center">
+<!-- <div align="center">
 <a href="https://github.com/dhyanid13/dhyanid13">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhyanid13&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/dhyanid13/dhyanid13">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhyanid13&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Dhaynis GitHub Stats" />
 </a>
+	 -->
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhyanid13&layout=compact&hide=TSQL&theme=nightowl"></p> -->
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=dhyanid13&count_private=true&show_icons=true&&theme=nightowl&include_all_commits=true" width="400"></p> 
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=dhyanid13&theme=nightowl"></p>	
 
 <br>
 <br>
-<br>
 
+
+## :link: &nbsp;Connect with me
 
 
 <p align="center">
-  	<a href="mailto:dhyanidhaval@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/dhyanid13"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://linkedin.com/in/dhyanidesai24"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="LinkedIn"/></a>
-	<a href="https://instagram.com/dhyani_d13"><img src="https://img.icons8.com/bubbles/50/000000/instagram-new--v2.png" alt="Instagram"/></a>
+  	<a href="mailto:dhyanidhaval@gmail.com"><img height=60 src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/dhyanid13"><img height=60 src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://linkedin.com/in/dhyanidesai24"><img height=60 src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="LinkedIn"/></a>
+	<a href="https://instagram.com/dhyani_d13"><img height=60 src="https://img.icons8.com/bubbles/50/000000/instagram-new--v2.png" alt="Instagram"/></a>
 	</p>
 
 <!-- <p align='center'>
- <a href="https://www.instagram.com/dhyani_d13/"><img height="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/dhyanidesai24/"><img height="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"></a>&nbsp;&nbsp
-<a href="https://twitter.com/"><img height="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg"></a>&nbsp;&nbsp;
-    <a href="dhyanidhaval@gmail.com"><img height="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a>&nbsp;&nbsp;
+ <a href="https://www.instagram.com/dhyani_d13/"><img height="50" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/dhyanidesai24/"><img height="50" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"></a>&nbsp;&nbsp
+<a href="https://twitter.com/"><img height="50" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg"></a>&nbsp;&nbsp;
+    <a href="dhyanidhaval@gmail.com"><img height="50" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a>&nbsp;&nbsp;
      -->
 
 <br>
