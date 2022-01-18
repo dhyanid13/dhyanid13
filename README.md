@@ -84,7 +84,9 @@ Here are some ideas to get you started:
 
 
 <p align='center'>
- <a href="https://www.instagram.com/dhyani_d13/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/dhyani-desai-2706021b4/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp
-<a href="https://twitter.com/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+ <a href="https://www.instagram.com/dhyani_d13/"><img height="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/dhyanidesai24/"><img height="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"></a>&nbsp;&nbsp
+<a href="https://twitter.com/"><img height="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg"></a>&nbsp;&nbsp;
+    <a href="https://twitter.com/"><img height="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a>&nbsp;&nbsp;
+    
 
