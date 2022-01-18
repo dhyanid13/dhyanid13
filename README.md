@@ -13,23 +13,26 @@
 
 
 <br>
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on various machine learning and web development projects
-- 🌱 I’m currently learning competitive coding, API development and cloud computing 
-- 👯 I’m looking to collaborate with developers on any projects and hackathons
-- 🤔 I’m looking for help with Node.js
-- 💬 Ask me about ... anything😄
+<img align="right" height="310px" alt="GIF" src="https://cdn.dribbble.com/users/1314475/screenshots/3031368/me.gif" />
+
+### I am a Software Developer pursuing B.Tech CSE
+
+- 🔭 I’m currently working on various ML and Full Stack projects :grin:
+- 🌱 I’m currently learning DevOps and cloud computing 
+- 👯 I’m looking to collaborate with other developers :wink:
+- 🥅 2022 Goals: Contribute to Open Source projects
+- 💬 Ask me about anything, I am happy to help :smile:
+- 🧗 I try to: Go beyond and push my limits
 - ⚡ Fun fact: I am a classical dancer.
-
 
 <br>
 
 
-<div align="center">
+<!-- <div align="center">
     <img src="https://cdn.dribbble.com/users/1314475/screenshots/3031368/me.gif" alt="hey" />
 </div>
-
+ -->
 
 ## 🔧 Technologies & Tools
 <!--
@@ -83,10 +86,18 @@ Here are some ideas to get you started:
 <br>
 
 
-<p align='center'>
+
+<p align="center">
+  	<a href="mailto:dhyanidhaval@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/dhyanid13"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://linkedin.com/in/dhyanidesai24"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="LinkedIn"/></a>
+	<a href="https://instagram.com/dhyani_d13"><img src="https://img.icons8.com/bubbles/50/000000/instagram-new--v2.png" alt="Instagram"/></a>
+	</p>
+
+<!-- <p align='center'>
  <a href="https://www.instagram.com/dhyani_d13/"><img height="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/dhyanidesai24/"><img height="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"></a>&nbsp;&nbsp
 <a href="https://twitter.com/"><img height="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg"></a>&nbsp;&nbsp;
     <a href="dhyanidhaval@gmail.com"><img height="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a>&nbsp;&nbsp;
-    
+     -->
 
