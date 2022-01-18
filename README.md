@@ -87,6 +87,6 @@ Here are some ideas to get you started:
  <a href="https://www.instagram.com/dhyani_d13/"><img height="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/dhyanidesai24/"><img height="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"></a>&nbsp;&nbsp
 <a href="https://twitter.com/"><img height="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg"></a>&nbsp;&nbsp;
-    <a href="https://twitter.com/"><img height="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a>&nbsp;&nbsp;
+    <a href="dhyanidhaval@gmail.com"><img height="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a>&nbsp;&nbsp;
     
 
