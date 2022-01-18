@@ -73,7 +73,7 @@
 
 
 ## &#x1f4c8; GitHub Stats
-
+<div align="center">
 <a href="https://github.com/dhyanid13/dhyanid13">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhyanid13&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
@@ -101,3 +101,8 @@
     <a href="dhyanidhaval@gmail.com"><img height="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a>&nbsp;&nbsp;
      -->
 
+<br>
+
+<div align="center">
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+</div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
