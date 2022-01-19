@@ -24,7 +24,7 @@
 
 - 🔭 I’m currently working on various ML and Full Stack projects :grin:
 - 🌱 I’m currently learning DevOps and cloud computing 
-- 👯 I’m looking to collaborate with other developers :wink:
+- 👯 I’m looking to collaborate with other developers 
 - 🥅 2022 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
 - 🧗 I try to: Go beyond and push my limits
