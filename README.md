@@ -8,6 +8,9 @@
 
 <!-- ### Hello folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
 <h1 align="center">Hi , I'm Dhyani Desai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bookman+Old+Style&color=%23926B9A&size=25&center=true&width=500&lines=Computer+Science+Major+%7C%7C+VIT+Chennai;Full+Stack+Developer;Machine+Learning+Enthusiast"></a>
+</p>
 <!-- <p>I am Dhyani Desai, pursuing my B.Tech in CSE at Vellore Institute of Technology, Chennai. I am interested in full stack development, machine learning and data science. </p>
  -->
 
